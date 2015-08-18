@@ -1,0 +1,466 @@
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\final2\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\BackwardGesture.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\DownGesture.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\ForwardGesture.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\LeftGesture.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\Right.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\RightGesture.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\UpGesture.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Database\GestureDatabase.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\kinect.html
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\4 till speech recognition\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Database\final.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\kinect.html
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\8 till simple microphone\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\Database\final.gbd
+C:\Users\ayush.aggarwal\Downloads\final2\final2\bin\x64\Debug\kinect.html
+C:\Users\ayush.aggarwal\Downloads\code\app\10 before vitrious\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\10 before vitrious\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\10 before vitrious\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Database\final.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\kinect.html
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Database\left.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\12 hand detection - Copy\final2\bin\x64\Debug\Database\Seated.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Database\left.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Database\down.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Database\right.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Database\up.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Database\voice.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\Database\static.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\16 till in one file\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\16 till in one file\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Database\left.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Database\down.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Database\right.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Database\up.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Database\voice.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Database\static.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\kinect.html
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\21 all in one - Copy\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Database\left.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Database\down.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Database\right.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Database\up.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Database\voice.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Database\static.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\kinect.html
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\22 boundry no need to remove as nested\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Database\left.gbd
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Database\down.gbd
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Database\right.gbd
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Database\up.gbd
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Database\voice.gbd
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Database\static.gbd
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\kinect.html
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\wahoo\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Database\left.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Database\down.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Database\right.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Database\up.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Database\voice.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Database\static.gbd
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\final2.exe.manifest
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\bin\x64\Debug\final2.application
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.exe.manifest
+C:\Users\ayush.aggarwal\Downloads\code\app\kinectV2MapVisualise\final2\obj\x64\Debug\final2.application
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\final2.exe.manifest
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\bin\x64\Debug\final2.application
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.exe.manifest
+C:\Users\ayush.aggarwal\Downloads\code\app\final2\final2\obj\x64\Debug\final2.application
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\vgbtechs\AdaBoostTech.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\vgbtechs\RFRProgressTech.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Database\left.gbd
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Database\down.gbd
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Database\right.gbd
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Database\up.gbd
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Database\voice.gbd
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Database\static.gbd
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\final2.exe.manifest
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\final2.application
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\final2.pdb
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\EO.WebBrowser.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Kinect.ReactiveV2.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Kinect.ReactiveV2.Input.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Interactive.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.Core.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.Linq.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\EO.WebBrowser.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Interactive.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.Core.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.Interfaces.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.Linq.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\bin\x64\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.csprojResolveAssemblyReference.cache
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\MainWindow.baml
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\App.g.cs
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2_Content.g.cs
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2_MarkupCompile.cache
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.g.resources
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.Properties.Resources.resources
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.csproj.GenerateResource.Cache
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.exe.manifest
+C:\Users\ayush.aggarwal\Downloads\project\final2\final2\obj\x64\Debug\final2.application
+C:\Users\ayush.aggarwal\Downloads\summer\project\final2\final2\bin\x64\Debug\final2.exe.config
+C:\Users\ayush.aggarwal\Downloads\summer\project\final2\final2\obj\x64\Debug\final2.exe
+C:\Users\ayush.aggarwal\Downloads\summer\project\final2\final2\obj\x64\Debug\final2.pdb

@@ -1,0 +1,636 @@
+<!--  Kinect V2 Map Visualisation - This project is made using various technology. 
+Firstly kinectV2 is used for gesture and voice recognition. In this application two types of gesture is recognised one is based on visual gesture builder 
+and other one is using bone joints as kinect v2 has the capability to capture small bone in hand so using hand gesture like close , open or lasso. 
+After that window app has the capability to speak if speaker is on about what is happening in app otherwise you can see on screen as text too.
+
+Secondly, for the UI interface I have not used the Google earth which is widely used before for Map visualisation. As I like open source so want to use 
+cesium which is also for me a great opportunity to learn about WEBgl, new technology of HTML 5 which is widely used for visualisation.
+Here we can have a full globe view and also can move globe using gesture, search for the place by speaking and switching to aeroplane and street view by saying
+fly and walk respectively. For street view I have used Google street view.
+
+Lastly we can take the snapshot of any state in our app by doing lasso hand gesture.
+
+In the window app I have make the UI such that user not feel alone while using app so user can see himself/herself on the screen and when they do gesture 
+they can see bone of the body too. Moreover we do not have to open app again we can close or open kinect as many time as we want in app it will reset the 
+application. To reset the cesium just click on home button on it.
+
+I have provided the Instruction on how to use application which can be hide by clicking on hide button.
+
+To run the app things required are mentioned in read me file.
+Places we can go - INDIA, AMERICA, SANDIEGO, SANFRANCISCO, MOUNTEVEREST, GRANDCANYON, HANOVER, NEWYORK, DELHI, GERMANY, EUROPE, BANGLORE, MUMBAI, GOA, HAMBURG
+HILDESHEIM, BELGIUM, AMSTERDAM, SWITZERLAND, Effiel Tower, Great Pyramid, PARIS, PRAGUE, BERLIN, VENICE, PISA, Taj Mahal
+
+Made By - Ayush Aggarwal- IIT kanpur , www.ayushaggarwal.in
+Supervised By - Prof. Dr. Monika Sester
+
+ If you have doubt or want to say thanks feel free to contact me at www.ayushaggarwal.in :) -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">  <!-- Use Chrome Frame in IE -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="description" content="Use the camera to control the view, and create custom event handlers for input.">
+    <meta name="cesium-sandcastle-labels" content="Tutorials, Showcases">
+    <title>Kinect V2 Map Visualisation</title>
+    <script type="text/javascript" src="Sandcastle/Sandcastle-header.js"></script>            <!-- For cesium -->
+    <script type="text/javascript" src="../ThirdParty/requirejs-2.1.9/require.js"></script>  <!-- For cesium -->
+	<script src="../Build/Cesium/Cesium.js"></script>                                         <!-- For cesium -->
+	<link rel="stylesheet" href="ui/split-pane.css" />                                <!-- For spliting of view when street mode -->
+	<script src="ui/jquery-1.11.3.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+	<script src="ui/split-pane.js"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script> <!-- For Google street view -->
+	<style type="text/css">                                                <!-- For spliting of view when street mode -->
+		/* css for dividing page into two for street view */
+			html, body {
+				height: 100%;
+				min-height: 100%;
+				margin: 0;
+				padding: 0;
+			}
+			.split-pane-divider {
+				background: #aaa;
+			}
+			#left-component {
+				width: 100%;
+			}
+			#divider {
+				Left : 0.1%;
+				width: 0px;
+			}
+			#right-component {
+				right: 0em;
+				width: 0.1%;   
+				/* cant put zero as error will come */
+				 /* same as divider width */
+			}
+	</style>
+	<script type="text/javascript" id="cesium_sandcastle_script">
+	<!-- For spliting of view when street mode -->
+	$(function() {
+		$('div.split-pane').splitPane();
+	});
+    
+	require.config({
+        baseUrl : '../Source',
+        waitSeconds : 60
+    });
+	
+	var glong = -71.0983260000002;  // this is used so as to note the latitude or longitude we are in.
+	var glat = 42.3455730000002; 
+	var placee = new google.maps.LatLng(glat, glong);	// to be use in google street view
+	var sv = new google.maps.StreetViewService();
+	var panorama;
+	var geocoder1;
+
+	// checks are there to check things if it is there or not
+	var check2 =0; // for street view there or not
+
+	// for geocoading
+	geocoder1 = new google.maps.Geocoder();   // for geocoaidng
+
+	function initialize() {
+		placee = new google.maps.LatLng(glat, glong);
+		// Set the initial Street View camera to the centre of the map
+		panorama = new google.maps.StreetViewPanorama(document.getElementById('right-component'));
+		sv.getPanoramaByLocation(placee, 500, processSVData);	
+	}
+
+	function processSVData(data, status) {
+		if (status == google.maps.StreetViewStatus.OK) {
+		panorama.setPano(data.location.pano);
+		panorama.setPov({
+			heading: 270,
+			pitch: 0
+		});
+		panorama.setVisible(true);
+		check2 =1; // for street view is there or not can b use anytime
+		//console.log("yes");
+		//console.log(glat);
+		//console.log(glong);
+
+		} else {
+		check2 =0;
+		//console.log("no");
+		//console.log(glat);
+		//console.log(glong);
+		}
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+</head>
+<body class="sandcastle-loading" data-sandcastle-bucket="bucket-requirejs.html">
+	<style>
+		@import url(Sandcastle/templates/bucket.css);  
+	</style>
+
+	<div id="split-pane-1" class="split-pane fixed-left">
+		<div  class="split-pane-component" id="left-component">			
+			<div id="cesiumContainer" class="fullSize"></div>
+			<div id="loadingOverlay"><h1>Loading...</h1></div>
+			<div id="toolbar"> 
+				<div id="Instruction"> 
+					<div>Click on the display to start.</div>
+					<div> -------</div>
+					<div>For Voice - Say</div>
+					<div>Walk - Activate street view</div>
+					<div>Fly - Activate flying mode</div>
+					<div>ZoomIn - To zoom in</div>
+					<div>ZoomOut- To zoom out</div>
+					<div>Left,Right,Up,Down - move in that direction</div>
+					<div> -------</div>
+					<div>With go or without say India, America, SanDiego, </div>
+					<div>San Francisco Bay, Mount Everest, Hanover, Grand Canyon and other famous place</div>
+					<div> -------</div>
+					<div>For gesture</div>
+					<div> Left, Right, Up, Down, Zoom in, Zoom out while globe </div>
+					<div> Left ,Right while flight </div>
+					<div> -------</div>
+					<div> Lasso by hand for Picture any time </div>
+					<div> -------</div>
+					<input type="button" value="Hide Instruction" onclick="hidee()"/> <!-- To hide instruction -->
+				</div>
+				<input id="loc" type="text" value=""/>
+				<input type="button" value="Go" onclick="geocode()"/>		<!-- Used for geocoading -->
+				
+			</div>			
+		</div>
+		<div class="split-pane-divider" id="divider"></div>					<!-- Divider to separate two view -->
+		<div class="split-pane-component" id="right-component">     <!-- here street view div come using javascript -->
+
+		</div>
+	</div>
+<script>
+
+	function hidee() {                                                // for hiding the instruction.
+		document.getElementById('Instruction').style.display = 'none';
+	}
+
+	var flags = {
+		moveForward : false,							<!-- This are used to activate moving default it is false and will activate one time when do gesture -->
+		moveBackward : false,
+		moveUp : false,
+		moveDown : false,
+		moveLeft : false,
+		moveRight : false
+	};
+
+	var viewer = new Cesium.Viewer('cesiumContainer');    // This is used to contain cesium webgl
+	
+	
+	var terrainProvider = new Cesium.CesiumTerrainProvider({       // for the terrain provider for Himalayas
+	   url : '//assets.agi.com/stk-terrain/world',
+		requestVertexNormals: true,
+		requestWaterMask: true
+	});
+	viewer.terrainProvider = terrainProvider;
+	viewer.scene.globe.enableLighting = true;
+	
+	//Enable depth testing so things behind the terrain disappear.
+	viewer.scene.globe.depthTestAgainstTerrain = true;
+
+	//Set the random number seed for consistent results.
+	Cesium.Math.setRandomNumberSeed(3);        // This is used to move plane in fly mode
+
+	//Set bounds of our simulation time
+	var start = Cesium.JulianDate.fromDate(new Date(2015, 2, 25, 16));
+	var stop = Cesium.JulianDate.addSeconds(start, 360, new Cesium.JulianDate());
+
+	//Make sure viewer is at the desired time.
+	viewer.clock.startTime = start.clone();
+	viewer.clock.stopTime = stop.clone();
+	viewer.clock.currentTime = start.clone();
+	viewer.clock.clockRange = Cesium.ClockRange.LOOP_STOP; //Loop at the end
+	viewer.clock.multiplier = 0.04;
+
+	//Set timeline to simulation bounds
+	viewer.timeline.zoomTo(start, stop);
+
+	//Generate a random circular pattern with varying heights.// 
+	function computeCirclularFlight(lon, lat, radius) {
+		var property = new Cesium.SampledPositionProperty();
+		for (var i = 0; i <= 360; i += 1) {
+			var radians = Cesium.Math.toRadians(i);
+			var time = Cesium.JulianDate.addSeconds(start, i, new Cesium.JulianDate());
+			var position = Cesium.Cartesian3.fromDegrees(lon + (radius * 1.5 * Math.cos(radians)), lat + (radius * Math.sin(radians)), 12000);
+			property.addSample(time, position);
+		}
+		return property;
+	}
+
+	// Bing tile provider // this tile helps to see the street name and country name in cesium
+	var bing = new Cesium.BingMapsImageryProvider({
+		url : '//dev.virtualearth.net',
+		key : 'AtZsb1G-pwmg9zVipvEzdAN3tXYS0kFY-upQKTyk6kwpHV4v6qCZN2nVl9b4mtVI',
+		mapStyle : Cesium.BingMapsStyle.AERIAL_WITH_LABELS
+	});
+	viewer.imageryLayers.addImageryProvider(bing);
+
+	// Cesium tool to manipulate it
+	var scene = viewer.scene;
+	var canvas = viewer.canvas;
+	var ellipsoid = scene.globe.ellipsoid;
+
+	// Used to manipulate camera in cesium view so as to see scene at particular view. We can change according to need
+	var index = 2;  // if entity is there or not
+	var clock = viewer.clock;
+	var center = Cesium.Cartesian3.fromDegrees(glong, glat, 1000);
+	var camera = viewer.camera;
+	var transform = Cesium.Transforms.eastNorthUpToFixedFrame(center);
+	var io;
+	var mousePosition;
+	var handler = new Cesium.ScreenSpaceEventHandler(canvas);
+	
+	handler.setInputAction(function(movement) {
+		flags.looking = true;
+		mousePosition = startMousePosition = Cesium.Cartesian3.clone(movement.position);
+	}, Cesium.ScreenSpaceEventType.LEFT_DOWN);
+	
+	handler.setInputAction(function(position) {
+		flags.looking = false;
+	}, Cesium.ScreenSpaceEventType.LEFT_UP);
+	
+	// to make the starting point India
+	camera.rotateRight(3); 
+	camera.rotateUp(0.3);
+	
+	// Used to create model of plane when in fly mode
+	function createModel(url, height) {
+		if(index == 1)
+		{
+			viewer.entities.removeAll(); // Entities are the model used 
+		
+			//Compute the entity position property.
+			var position = computeCirclularFlight(glong-45, glat, 30);
+
+			//Actually create the entity
+			var entity = viewer.entities.add({
+
+				//Set the entity availability to the same interval as the simulation time.
+				availability : new Cesium.TimeIntervalCollection([new Cesium.TimeInterval({
+					start : start,
+					stop : stop
+				})]),
+
+				//Use our computed positions
+				position : position,
+				//Automatically compute orientation based on position movement.
+				orientation : new Cesium.VelocityOrientationProperty(position),
+
+				//Load the Cesium plane model to represent the entity
+				model : {
+					uri : 'CesiumAir/Cesium_Air.gltf',
+					minimumPixelSize : 20
+				},
+
+				//Show the path as a yelllow line sampled in 1 second increments.
+				//path : {
+				//	resolution : 1,
+				//	material : new Cesium.PolylineGlowMaterialProperty({
+				//		glowPower : 0.1,
+				//		color : Cesium.Color.YELLOW
+				//	}),
+				//	width : 10
+				//}
+			});
+		
+			viewer.trackedEntity = entity;
+			// cesium take time to load plane so we ahve to wait for some time so as to activate this which is required to 
+			// to have a great view while plane is there
+			setTimeout(function(){ fordirect(); }, 0619);   
+		}
+			
+		if(index == 2)
+		{
+			viewer.entities.removeAll();
+		}		
+	}
+
+	// This can be used if kinect not working and have to control map
+	function getFlagForKeyCode(keyCode) {
+		switch (keyCode) {
+		case 'W'.charCodeAt(0):
+			return 'moveForward';
+		case 'S'.charCodeAt(0):
+			return 'moveBackward';
+		case 'Q'.charCodeAt(0):
+			return 'moveUp';
+		case 'E'.charCodeAt(0):
+			return 'moveDown';
+		case 'D'.charCodeAt(0):
+			return 'moveRight';
+		case 'A'.charCodeAt(0):
+			return 'moveLeft';
+		case '2'.charCodeAt(0):
+		{
+			searchcallfromcs('new york');
+			break;
+		}
+		case '3'.charCodeAt(0):
+		{
+			searchcallfromcs('India');
+			break;
+		}
+		case '4'.charCodeAt(0):
+		{
+			searchcallfromcs('san fransisco');
+			break;
+		}
+		case 'M'.charCodeAt(0):
+		{
+			movecallfromcs('walk');
+			break;
+		}
+		case 'N'.charCodeAt(0):
+		{
+			movecallfromcs('fly');
+			break;
+		}
+		case 'B'.charCodeAt(0):
+		{
+			movecallfromcs('normal');
+			break;
+		}
+		case 'V'.charCodeAt(0):
+			movecallfromcs('myplace');
+			break;
+		default:
+			return undefined;
+		}
+	}
+	
+	// just if want to check function working through keyboard
+	document.addEventListener('keydown', function(e) {      
+		var flagName = getFlagForKeyCode(e.keyCode);
+		if (typeof flagName !== 'undefined') {
+			flags[flagName] = true;
+		}
+	}, false);
+
+	// THIS RUN AT EVERYTIME TO CHECK THE STATE OF FLAG FOR LEFT, RIGHT ETC.
+	viewer.clock.onTick.addEventListener(function(clock) {
+		var camera = viewer.camera;
+	
+		// Change movement speed based on the distance of the camera to the surface of the ellipsoid.
+		var cameraHeight = ellipsoid.cartesianToCartographic(camera.position).height;
+		var moveRate = cameraHeight / 50.0;
+		var rotateRate = cameraHeight* 0.1 / 20602339;  // this is computed by maths so as to adjust rotate rate depending on height
+		
+		if (flags.moveForward) {
+		console.log(cameraHeight);
+			console.log(rotateRate);
+			// alert("I am an alert box!");
+			if(index == 2)  // not want this to activate while we are using aeroplane
+			{
+			camera.moveForward(moveRate);
+			}
+			flags['moveForward'] = false;
+		}
+		
+		if (flags.moveBackward) {
+			if(index == 2)
+			{
+			camera.moveBackward(moveRate);
+			}
+			flags['moveBackward'] = false;
+		}
+		
+		if (flags.moveUp) {
+		//    camera.moveUp(moveRate/10);
+			if(index == 2)
+			{		
+			camera.rotateDown(rotateRate)
+			}
+			flags['moveUp'] = false;
+		}
+		
+		if (flags.moveDown) {
+		 //   camera.moveDown(moveRate/10);
+			if(index == 2)    
+			{
+			camera.rotateUp(rotateRate)
+			}
+			flags['moveDown'] = false;
+		}
+		
+		if (flags.moveLeft) {
+		  //  camera.moveLeft(moveRate);
+			if(index == 2)
+			{
+			camera.rotateLeft(rotateRate)  // in the case of plane we have to rotate camera differently to feel as moving left
+			}
+			if(index == 1)
+			{
+			camera.rotateRight(0.02)
+			}
+			flags['moveLeft'] = false;
+		}
+		
+		if (flags.moveRight) {
+		 //   camera.moveRight(moveRate);
+			if(index == 1)
+			{
+			camera.rotateLeft(0.02)     
+			}
+			if(index == 2)
+			{
+			camera.rotateRight(rotateRate)
+			}
+			
+			flags['moveRight'] = false;
+		}
+	});
+
+	Sandcastle.finishedLoading();  //cesium finished loading  at intitial stage
+	geocode(); //Initial geocode just to activate street view for future
+
+	function geocode() { // Adapted from Cesium.GeocoderViewModel which is the default geocode in cesium
+		var query = document.getElementById('loc').value;
+		if (/^\s*$/.test(query)) {
+			return;
+		}
+
+		var promise = Cesium.jsonp('//dev.virtualearth.net/REST/v1/Locations', {
+			parameters : {
+				query : query,
+				key : Cesium.BingMapsApi.getKey()
+			},
+			callbackParameterName : 'jsonp'
+		});
+
+		Cesium.when(promise, function(result) {
+			if (result.resourceSets.length === 0) {
+				document.getElementById('loc').value += ' (not found)';
+				return;
+			}
+
+			var resourceSet = result.resourceSets[0];
+			if (resourceSet.resources.length === 0) {
+				document.getElementById('loc').value += ' (not found)';
+				return;
+			}
+
+			var resource = resourceSet.resources[0];
+			document.getElementById('loc').value = resource.name;
+			var bbox = resource.bbox;
+			var rectangle = Cesium.Rectangle.fromDegrees(bbox[1], bbox[0], bbox[3], bbox[2]);
+
+			viewer.camera.flyTo({
+				destination : rectangle,
+				endTransform : Cesium.Matrix4.IDENTITY,
+				convert : false
+			});
+		}, function() {
+			document.getElementById('loc').value += ' (error)';
+		});
+	}
+	
+	//This javascript function is called when say to kinect it pass that word so as to find its location using geocode
+	function searchcallfromcs(cssearch) {
+		document.getElementById("loc").value = cssearch;
+		address1 = cssearch;
+		geocoder1.geocode( { 'address': address1}, function(results, status) {
+			glat = results[0].geometry.location.lat();       // using google cmap to get exact latitute longitude
+			glong = results[0].geometry.location.lng();
+			geocode(); //of cesium
+			movecallfromcs('normal'); //called so as to move ceium to that geolocation
+	    });
+	}
+
+	function fordirect()  // this is called to change the aeroplane view
+	{
+		camera.rotateUp(0.4);	
+	}
+	
+
+	function movecallfromcs(csmove) {
+	
+		if (csmove == 'normal')
+		{
+			index = 2;
+			createModel('', 0.0); // this is called to remove beofre entitiy
+			viewer.camera.flyTo({
+				destination : Cesium.Cartesian3.fromDegrees(glong, glat, 10000.0)
+			});
+			//console.log("normal");
+			document.getElementById("divider").style.width = "0px";
+			document.getElementById("divider").style.Left = "100%";
+			document.getElementById("right-component").style.width = "0.1%";
+			document.getElementById("left-component").style.width = "100%";
+			placee = new google.maps.LatLng(glat, glong);
+			// Set the initial Street View camera to the centre of the map
+			sv.getPanoramaByLocation(placee, 500, processSVData);
+			//console.log("hii");
+			//console.log(glat);
+			//console.log(glong);
+		}
+		
+		if (csmove == 'fly')   //activate if we want to fly
+		{	
+			index = 1;
+			createModel('CesiumAir/Cesium_Air.gltf', 500.0);
+			document.getElementById("divider").style.width = "0px";
+			document.getElementById("divider").style.Left = "100%";
+			document.getElementById("right-component").style.width = "0.1%";
+			document.getElementById("left-component").style.width = "100%";		
+		}
+				
+		if (csmove == 'walk')
+		{
+			index = 2;
+			createModel('', 0.0); // this is called to remove beofre entitiy
+			//console.log(glat);
+			//console.log(glong);
+			if (check2 ==1 )
+			{
+				viewer.camera.flyTo({
+					destination : Cesium.Cartesian3.fromDegrees(glong, glat, 0.0)
+				});
+				//console.log("walk  yes ");
+				document.getElementById("divider").style.width = "0px";
+				document.getElementById("divider").style.Left = "60%";
+				document.getElementById("right-component").style.width = "60%";	
+				document.getElementById("left-component").style.width = "40%";
+			}	
+				
+			if (check2 ==0 )
+			{
+				viewer.camera.flyTo({
+					destination : Cesium.Cartesian3.fromDegrees(glong, glat, 1000.0)
+				});
+				//console.log("walk  no ");
+				alert('Street View data not found for this location.');
+				document.getElementById("divider").style.width = "0px";
+				document.getElementById("divider").style.Left = "100%";
+				document.getElementById("right-component").style.width = "0.1%";
+				document.getElementById("left-component").style.width = "100%";			
+			}
+		}
+	
+
+		if (csmove == 'myplace')
+		{
+			index = 2;
+			createModel('', 0.0);
+			// Create callback for browser's geolocation
+			// Ask browser for location, and fly there. // these is not working in browser used for window app
+			navigator.geolocation.getCurrentPosition(fly);
+		}	
+	}
+	function fly(position) {
+		glong = position.coords.longitude;
+		glat = position.coords.latitude;
+		movecallfromcs('normal');	
+	}	
+		
+	// these function is called by gesture from the kinect app
+	function callfromcs(csCode) {
+		switch (csCode) {
+		case 'W':
+			{
+				flags['moveForward'] = true;
+				break;	
+			}
+		case 'S':
+			{
+				flags['moveBackward'] = true;
+				break;
+			}
+		case 'Q':
+			{
+				flags['moveUp'] = true;
+				break;
+			}
+		case 'E':
+			{
+				flags['moveDown'] = true;
+				break;
+			}
+		case 'D':
+			{
+				flags['moveRight'] = true;
+				break;
+			}
+		case 'A':
+			{
+				flags['moveLeft'] = true;
+				break;
+			}
+			default:
+				return undefined;
+		}
+	}
+
+</script>
+</body>
+</html>
+
+
+
+
+
